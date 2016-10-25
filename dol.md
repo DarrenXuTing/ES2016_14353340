@@ -11,9 +11,12 @@
 
 >2.1 example：
 >修改square.c中对i的赋值
+
 >![](http://p1.bqimg.com/567571/69fa03ccfd73a42b.png)
 > 实验结果
+
 >![](http://p1.bqimg.com/567571/b5ac656bb4b4b28c.png)
+
 >2.2 example2:
 >修改xml中对value的赋值：
 >![](http://p1.bqimg.com/567571/d196b73756dcd300.png)
