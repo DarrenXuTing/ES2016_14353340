@@ -2,7 +2,7 @@
 ### ROS
 >1、Configure my Ubuntu repositories to allow "restricted," "universe," and "multiverse."
 
-> ![](http://i1.piimg.com/567571/e89cc05e0e6ca90e.jpg)
+> ![](http://i1.piimg.com/567571/919979605cf952bd.jpg)
 
 >2、Setup my computer to accept software from packages.ros.org.
 Set up my keys.
@@ -27,13 +27,17 @@ Make sure my Debian package index is up-to-date.
 
 ### Cartographer
 >1、安装所有依赖项
+
 > ![](http://i1.piimg.com/567571/c0db7fa8f521494b.png)
 >2、安装ceres solver，选择的版本是1.11
+
 Make sure my Debian package index is up-to-date.
 > ![](http://i1.piimg.com/567571/6a352227032fcd51.png)
 > 3、安装Cartographer
+
 > ![](http://i1.piimg.com/567571/fbcb212387f6324f.png)
 >4、安装cartographer_ros
+
 >![](http://i1.piimg.com/567571/4b8331de222e5495.png)
 
 
