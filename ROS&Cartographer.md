@@ -2,7 +2,7 @@
 ### ROS
 >1、Configure my Ubuntu repositories to allow "restricted," "universe," and "multiverse."
 
->![](https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1479399648&di=b80b8aa065bad037b21abe13040c6db5&imgtype=jpg&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fdbb44aed2e738bd40003d200a88b87d6277ff9e5.jpg)
+>![](http://i1.piimg.com/567571/919979605cf952bd.jpg)
 >2、Setup my computer to accept software from packages.ros.org.
 Set up my keys.
 Make sure my Debian package index is up-to-date.
