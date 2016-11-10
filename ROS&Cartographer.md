@@ -2,11 +2,7 @@
 ### ROS
 >1、Configure my Ubuntu repositories to allow "restricted," "universe," and "multiverse."
 
-> ![](http://i1.piimg.com/567571/919979605cf952bd.jpg)
-
->1、Configure my Ubuntu repositories to allow "restricted," "universe," and "multiverse."
-
-> ![](http://i1.piimg.com/567571/919979605cf952bd.jpg)
+> ![](http://yotuku.cn/link?url=Vy86fc6gG&tk_plan=free&tk_storage=tietuku&tk_vuid=b09241c7-6852-4b2c-8abe-5a0531f98061&tk_time=2016111100)
 
 >2、Setup my computer to accept software from packages.ros.org.
 Set up my keys.
