@@ -4,9 +4,14 @@
 
 > ![](http://i1.piimg.com/567571/919979605cf952bd.jpg)
 
+>1、Configure my Ubuntu repositories to allow "restricted," "universe," and "multiverse."
+
+> ![](http://i1.piimg.com/567571/919979605cf952bd.jpg)
+
 >2、Setup my computer to accept software from packages.ros.org.
 Set up my keys.
 Make sure my Debian package index is up-to-date.
+
 > ![](http://i1.piimg.com/567571/e89cc05e0e6ca90e.jpg)
 > 3、Desktop-Full Install: (Recommended) : ROS, rqt, rviz, robot-generic libraries, 2D/3D simulators, navigation and 2D/3D perception
 > ![](http://i1.piimg.com/567571/6b14e9f8dc58d2e8.jpg)
