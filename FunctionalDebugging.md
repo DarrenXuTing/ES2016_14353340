@@ -70,5 +70,6 @@
 
 #### 四、Cnt变量的最终值和HappyBuf的最终值
 >![](http://i1.piimg.com/567571/f0dd37b1faec3153.jpg)
+
 > HappyBuf:0xA8863432  Cnt:0x00000014
 main.s程序有两个缓冲区HappyBuf和SadBuf，程序将sad和happy两个8位变量赋为随机数，再将这两个变量转存到数组中。Cnt保存数组偏移量，Cnt被初始化为0，转存时先判断Cnt是否越界，若否，则将变量转存再将Cnt加1.这里一共进行了14次数组的存储，且未越界，故Cnt为14。
