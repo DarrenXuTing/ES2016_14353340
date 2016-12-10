@@ -2,9 +2,12 @@
 
 #### 一、程序的安装
 >1、安装MDK474.EXE
+
 > ![](http://i1.piimg.com/567571/a78dea78b95697f6.jpg)
 > ![](http://p1.bqimg.com/567571/a0a9be6b6b223964.jpg)
+
 >2、EE319K_InstallSpring2016.exe
+
 > ![](http://p1.bqimg.com/567571/5bd92e5ac9af837a.jpg)
 
 >3、加载FunctionalDebugging文件夹中的.uvproj文件
